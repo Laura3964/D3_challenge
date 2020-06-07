@@ -1,5 +1,8 @@
 # D3 Homework - Data Journalism and D3
 
+https://laura3964.github.io/D3_challenge/
+
+
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
